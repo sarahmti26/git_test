@@ -1,0 +1,2 @@
+Hey there, this is my first git repo, 
+I'm trying to figure things out!

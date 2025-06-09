@@ -1,4 +1,4 @@
-# git_test
+
 Hello GitHub!
 This is my first gitHub repo and I am learning from "The Odin Project".
 
